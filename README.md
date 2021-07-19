@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ajithkgshk
 - 👀 I’m interested in ruby on rails, programming, Web, gaming
-- 🌱 I’m currently expanding my ruby and rails skills
+- 🌱 I’m currently expanding my HTML5, JS, CSS, Ruby, RoR and Flutter skills
 - 📫 Email me at ajith@genilok.com
 
 <!---
