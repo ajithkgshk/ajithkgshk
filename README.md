@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ajithkgshk
 - 👀 I’m interested in ruby on rails, programming, Web, gaming
 - 🌱 I’m currently expanding my HTML5, JS, CSS, Ruby, RoR and Flutter skills
-- 📫 Email me at ajith@genilok.com
+- 📫 Email me at ajith@deucn.com
 
 <!---
 ajithkgshk/ajithkgshk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
